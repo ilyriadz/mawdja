@@ -1,0 +1,5 @@
+player with costom keyCode
+player with sprite change support
+Player super class
+KeyboardPlayer extends Player
+MousePlayer extends Player
